@@ -1,4 +1,4 @@
-# WebdriverIO Mobile Automation Framework
+# WebdriverIO Mobile Automation Framework with Appium and JS
 
 This repository contains an end-to-end mobile automation framework built using WebdriverIO. The tests are designed to verify the navigation and functional aspects of a mobile application.
 
